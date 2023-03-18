@@ -5,3 +5,6 @@ to navigate to the Login screen. This is a small project in order to practice ou
 ## FUNCTIONALITY
 
 The only interaction/action displayed in the App is the Login button, it redirects the user to the Login Screen. 
+
+## ACTIVITIES/SCREENS FILE PATH
+app > src > main > java/br/com/example/desesenvolvendo_app_fase5_fiap/activity
